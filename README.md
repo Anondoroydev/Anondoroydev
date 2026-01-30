@@ -7,14 +7,14 @@
   />
 </h1>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoraydev" /> 
+  <img src="https://komarev.com/ghpvc/?username=anondoraydev&label=Profile%20views&color=0e75b6&style=flat" alt="anondoroydev" /> 
 </p>
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoraydev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anondoroydev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -95,12 +95,12 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Anondoraydev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Anondoroydev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
     height="300em" 
     style="width: 49%; margin: 0; padding: 0; display: inline-block; border-radius: 10px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoraydev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoroydev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
     height="300em" 
     style="width: 49%; margin: 0; padding: 0; display: inline-block; border-radius: 10px;" 
   />
@@ -108,7 +108,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 <div align="center" style="margin-top: 20px;">
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=Anondoraydev&theme=tokyonight&hide_border=false" 
+    src="https://nirzak-streak-stats.vercel.app/?user=Anondoroydev&theme=tokyonight&hide_border=false" 
     width="50%" 
     style="border-radius: 10px;" 
   />
@@ -120,7 +120,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoraydev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=38bdae&point=f0f6fc" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoroydev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=38bdae&point=f0f6fc" width="95%" />
 </p>
 
 
@@ -129,7 +129,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 ### 🔝 Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Anondoraydev&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Anondoroydev&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -139,7 +139,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anondoraydev/Anondoraydev/output/github-snake-dark.svg" alt="GitHub Snake Animation" style="max-width:100%;border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Anondoraydev/Anondoroydev/output/github-snake-dark.svg" alt="GitHub Snake Animation" style="max-width:100%;border-radius:10px;" />
 </p>
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
