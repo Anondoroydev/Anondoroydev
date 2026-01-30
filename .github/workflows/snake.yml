@@ -25,7 +25,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
