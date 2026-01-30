@@ -10,14 +10,14 @@
 
 ![Coding](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat.gif)
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anondoroydev&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💫 About Me
 
@@ -28,7 +28,7 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 - 🚀 Growing toward **Full-Stack Development**
 - 🎯 Focused on clean & scalable code
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌐 Social Links
 
@@ -40,7 +40,7 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
   <a href="https://x.com/AjoySarkar553"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/></a>
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💻 Tech Stack
 
@@ -48,20 +48,23 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,figma,vercel,netlify" />
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Anondoroydev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Anondoroydev&theme=radical)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anondoroydev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anondoroydev&layout=compact&theme=tokyonight" width="48%" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anondoroydev&layout=compact&theme=radical" 
+    alt="Top Languages"
+    width="400"
+  />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anondoroydev&theme=tokyonight" width="60%" />
-</p>
 
----
+
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📈 Activity Graph
 
@@ -69,7 +72,7 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anondoroydev&theme=tokyo-night" width="95%" />
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🐍 GitHub Contribution Snake
 
@@ -79,9 +82,9 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
   <img src="https://raw.githubusercontent.com/Anondoroydev/Anondoroydev/output/github-snake-dark.svg" />
 </p>
 
----
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 <p align="center">
   ❤️ Show some love by starring my repositories
