@@ -2,8 +2,8 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch:     # Manual trigger support
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:      # Manual trigger support
   push:
     branches:
       - main             # Trigger on push to main
@@ -17,15 +17,22 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contributions Snake Animation
+      - name: Generate GitHub Snake Animation (Light)
         uses: Platane/snk@v3
         with:
-          github_user_name: Anondoroydev   # 🔁 Replace with your GitHub username
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          github_user_name: Anondoroydev   # <-- Replace with your GitHub username
+          outputs: dist/github-snake.svg
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Snake Animation (Dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Anondoroydev
+          outputs: dist/github-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PALETTE: github-dark          # Dark theme
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
