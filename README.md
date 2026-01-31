@@ -83,6 +83,9 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 > ⚠️ This works **only after** adding the snake workflow
 
 ## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anondoroydev/Anondoroydev/output/pacman-contribution-graph-dark.svg" />
+</p>
 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
