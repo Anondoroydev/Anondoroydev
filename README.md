@@ -76,11 +76,14 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 
 ## 🐍 GitHub Contribution Snake
 
-> ⚠️ This works **only after** adding the snake workflow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anondoroydev/Anondoroydev/output/github-snake-dark.svg" />
 </p>
+> ⚠️ This works **only after** adding the snake workflow
+
+## 🐍 GitHub Contribution Snake
+
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
