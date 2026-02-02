@@ -53,8 +53,19 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Anondoroydev&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Anondoroydev&theme=radical)
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Anondoroydev&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Anondoroydev&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anondoroydev&layout=compact&theme=radical" 
@@ -62,7 +73,6 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
     width="400"
   />
 </p>
-
 
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
