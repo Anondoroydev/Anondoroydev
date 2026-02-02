@@ -1,0 +1,25 @@
+name: GitHub Profile 3D Contribution Graph
+
+on:
+  schedule:
+    # run once daily at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout profile repo
+      - uses: actions/checkout@v5
+
+      # Generate 3D contribution graph
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: anondoroydev
