@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Snake & Pacman animations
 
 on:
   schedule:
@@ -13,16 +13,32 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate snake.svg
+      # 🐍 Generate Snake
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake/snake.svg?palette=github-light&background=#ffffff
 
-      - name: Push to output branch
+      # 🎮 Generate Pac-Man
+      - name: Generate pacman animation
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          background: "#ffffff"
+
+      # 📁 Move Pac-Man into its own folder
+      - name: Organize pacman file
+        run: |
+          mkdir -p dist/pacman
+          mv dist/pacman-contribution-graph.svg dist/pacman/pacman.svg
+
+      # 🚀 Push everything to output branch
+      - name: Push animations to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
