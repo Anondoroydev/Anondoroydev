@@ -97,7 +97,7 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🐍 GitHub Contribution Snake
+## 🎮 Pac-Man Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anondoroydev/Anondoroydev/output/pacman-contribution-graph-dark.svg" />
 </p>
@@ -106,12 +106,20 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📊 My 3D Contribution Graph
-<img src="https://raw.githubusercontent.com/anondoroydev/anondoroydev/main/profile-3d-contrib/profile-night-green.svg" width="100%" />
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/anondoroydev/anondoroydev/main/profile-3d-contrib/profile-night-green.svg" 
+    alt="3D GitHub Contributions" 
+    height="400px" 
+    style="width: auto;" 
+  />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <p align="center">
