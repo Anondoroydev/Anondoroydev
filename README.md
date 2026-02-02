@@ -76,11 +76,13 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 
 ## 🐍 GitHub Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anondoroydev/anondoroydev/output/snake/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anondoroydev/anondoroydev/output/snake/snake-light.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/anondoroydev/anondoroydev/output/snake/snake-light.svg" style="width: 100%; height: 250px;">
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anondoroydev/Anondoroydev/output/github-snake-dark.svg" />
-</p>
-> ⚠️ This works **only after** adding the snake workflow
+![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
@@ -96,3 +98,4 @@ I’m a **Front End Web Developer** passionate about building clean, fast, and u
 <p align="center">
   ❤️ Show some love by starring my repositories
 </p>
+
