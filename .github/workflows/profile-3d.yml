@@ -2,24 +2,35 @@ name: GitHub Profile 3D Contribution Graph
 
 on:
   schedule:
-    # run once daily at 00:00 UTC
+    # run daily at 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # crucial for committing generated SVG
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout profile repo
-      - uses: actions/checkout@v5
+      # Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
       # Generate 3D contribution graph
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: anondoroydev
+          USERNAME: anondoroydev  # আপনার GitHub username
+          OUTPUT_DIR: profile-3d-contrib  # Folder where SVG will be saved
+
+      # Commit & push generated SVG
+      - name: Commit 3D SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/*.svg
+          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
+          git push
