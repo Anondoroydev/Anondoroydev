@@ -1,15 +1,17 @@
-name: GitHub Profile 3D Contribution Graph
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # run daily
+    - cron: "0 0 * * *"  # daily 00:00 UTC
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
@@ -17,11 +19,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      # 2️⃣ Make output folder first
-      - name: Create output folder
+      # 2️⃣ Create output folder
+      - name: Create folder
         run: mkdir -p profile-3d-contrib
 
-      # 3️⃣ Generate 3D contribution SVG
+      # 3️⃣ Generate 3D Contribution Graph
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -29,8 +31,8 @@ jobs:
           USERNAME: anondoroydev
           OUTPUT_DIR: profile-3d-contrib
 
-      # 4️⃣ Commit and push
-      - name: Commit & push SVG
+      # 4️⃣ Commit & Push
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
