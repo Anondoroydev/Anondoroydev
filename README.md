@@ -1,3 +1,4 @@
+  
 
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
@@ -13,10 +14,9 @@
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anondoroydev&theme=radical&no-frame=true&margin-w=10" />
-</p>
+
+## 🏆GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=anondoroydev&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=12" style="width:100%;" />
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
