@@ -22,12 +22,16 @@
 
 ## 💫 About Me
 
-I’m a **Front End Web Developer** passionate about building clean, fast, and user-friendly web applications.
+I’m a **Front End Web Developer** dedicated to building clean, efficient, and bug-free websites that ensure **100% client satisfaction**. I’m passionate about continuous learning and enjoy sharing my knowledge with the community. Solving practical problems and delivering results with a clear focus drives me forward. I approach every project with strategy and purpose, and I genuinely love what I do.
 
-- 🌱 Learning **MongoDB & Express.js**
-- 💻 Strong in **React, JavaScript, HTML, CSS**
-- 🚀 Growing toward **Full-Stack Development**
-- 🎯 Focused on clean & scalable code
+**Skills:** React.js / MongoDB / JavaScript / HTML / CSS / Bootstrap / Tailwind CSS / And more...
+
+- 🌱 I’m currently learning **MongoDB** and Backend Development with **Express.js**  
+- 💻 Skilled in frontend development using **React.js**, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS  
+- 🚀 Working on improving my backend skills and building full-stack projects   
+- 📚 Passionate about learning and sharing knowledge  
+- 🎯 Focused on creating clean, error-free, and user-friendly websites
+
 
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
