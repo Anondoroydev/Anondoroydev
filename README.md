@@ -34,8 +34,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 ## 🏆GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=anondoroydev&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=12" style="width:100%;" />
-
-![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gi
+ 
 
 ## 🌐 Social Links
 
