@@ -32,9 +32,14 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 
 
 ## 🏆GitHub Trophies<p align="center">
+
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=anondoroydev&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=10&row=2&column=7"  width="100%"  />
+  <span style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+    <img src="https://github-trophies.vercel.app/?username=anondoroydev&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=10&row=2&column=7" 
+         style="border: 2px solid #fff; border-radius:8px; padding:4px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);"  width="100%"  />
+  </span>
 </p>
+
 
 
  
