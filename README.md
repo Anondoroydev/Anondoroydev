@@ -42,8 +42,15 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 </p>
 
 
+<!-- Estatisticas -->
+## 📊 Estatísticas do GitHub
 
- 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anondoroydev&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anondoroydev&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anondoroydev&theme=radical) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anondoroydev&theme=radical) | ![](https://streak-stats.demolab.com?user=anondoroydev&theme=tokyonight&hide_border=false) |
+| :-: | :-: |
+
 
 ## 🌐 Social Links
 
