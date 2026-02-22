@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ajoy+Sarkar+(Anondo);Full+Stack+Web+Developer" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anondoroydev&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-![Coding](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat.gif)
-
-![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 
 ## 💫 About Me
 
@@ -26,7 +18,7 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
 - 📚 Passionate about learning and sharing knowledge  
 - 🎯 Focused on creating clean, error-free, and user-friendly websites
 
-
+  <img src="https://komarev.com/ghpvc/?username=Anondoroydev&label=Profile%20views&color=0e75b6&style=flat" />
 ![Coding Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
