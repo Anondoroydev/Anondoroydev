@@ -2,7 +2,7 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ajoy+Sarkar+(Anondo);Front+End+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ajoy+Sarkar+(Anondo);Full+Stack+Web+Developer" />
 </h1>
 
 <p align="center">
