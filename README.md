@@ -31,7 +31,6 @@ I’m a **Front End Web Developer** dedicated to building clean, efficient, and 
   </span>
 </p>
 
-
 <!-- Estatisticas -->
 ## 📊 Estatísticas do GitHub
 
